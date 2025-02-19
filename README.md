@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ahmedAtNexus
+- 👋 Hi, I’m J Ahmed
 - 👀 I’m interested in Backend Development and Tech Automation
-- 🌱 I’m currently learning CI/CD
-- 💞️ I’m looking to collaborate on LLM Projects
-- 📫 How to reach me mjahmed1280@gmail.com
-- 😄 Pronouns: i5 12th GEN
+- 📫 How to reach me jakaria.ahmed@groupm.com
 - ⚡ Fun fact: I did Bachlor in Physics 
 
 <!---
